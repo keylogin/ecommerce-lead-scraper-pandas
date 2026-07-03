@@ -24,8 +24,8 @@ The final pipeline outputs a structured table containing:
 ## ⚙️ Quick Start
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/keylogin/ecommerce-lead-scraper-pandas.git](https://github.com/YOUR_USERNAME/ecommerce-lead-scraper-pandas.git)
-
+   git clone git@github.com:keylogin/ecommerce-lead-scraper-pandas.git
+   
 2.   Install dependencies:
 Bash
 
